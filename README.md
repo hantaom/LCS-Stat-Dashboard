@@ -27,3 +27,4 @@ To start working on an issue,
    
    `git push` or  
    `git push origin hantao`  
+5. Greetings friends, just testing commit. 
